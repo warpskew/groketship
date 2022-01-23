@@ -2,11 +2,15 @@
  * @file Defines the Next.js configuration.
  */
 
-// @generated: @expo/next-adapter@3.1.17
-// Learn more: https://github.com/expo/expo/blob/master/docs/pages/versions/unversioned/guides/using-nextjs.md#withexpo
+// @ts-check
 
 const { withExpo } = require('@expo/next-adapter');
 
-module.exports = withExpo({
+/**
+ * @type {import('next').NextConfig}
+ **/
+const nextConfig = withExpo({
   projectRoot: __dirname,
 });
+
+module.exports = nextConfig;
