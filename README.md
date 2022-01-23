@@ -13,6 +13,8 @@
 - [x] Monorepo support (multi-package repository) via [Lerna](https://lerna.js.org)
 - [x] Conventional commit checks via [Commitlint](https://commitlint.js.org)
 - [x] Git hook support via [Husky](https://typicode.github.io/husky)
+- [x] Universal React application via [Expo](https://docs.expo.dev) and [Next.js](https://nextjs.org/docs/getting-started)
+- [x] Isomorphic application via [Next.js](https://nextjs.org/docs/getting-started)
 
 ## Versioning
 
