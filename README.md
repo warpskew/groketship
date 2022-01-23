@@ -1,0 +1,2 @@
+# groketship
+A general-purpose software template for the modern-day start-up
