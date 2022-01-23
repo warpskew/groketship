@@ -10,6 +10,10 @@
     "husky": "^7.0.4",
     "lerna": "^4.0.0"
   },
+  "funding": {
+    "type": "individual",
+    "url": "https://www.buymeacoffee.com/warpskew"
+  },
   "homepage": "https://github.com/warpskew/groketship#readme",
   "license": "MIT",
   "main": "index.js",
