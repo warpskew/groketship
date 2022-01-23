@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "root",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git/**": true,
+			"**/node_modules/**": true,
+			"**/.DS_Store": true,
+			"**/package-lock.json": true
+		}
+	}
+}
