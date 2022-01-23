@@ -1,0 +1,16 @@
+{
+  "author": "Oscar Fuentes",
+  "bugs": {
+    "url": "https://github.com/warpskew/groketship/issues"
+  },
+  "description": "A general-purpose software template for the modern-day start-up",
+  "homepage": "https://github.com/warpskew/groketship#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "groketship",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warpskew/groketship.git"
+  },
+  "version": "0.1.0"
+}
