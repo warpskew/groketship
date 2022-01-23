@@ -7,6 +7,7 @@
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
     "@commitlint/config-conventional": "^16.0.0",
+    "husky": "^7.0.4",
     "lerna": "^4.0.0"
   },
   "homepage": "https://github.com/warpskew/groketship#readme",
@@ -16,5 +17,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/warpskew/groketship.git"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "dev": "lerna run --parallel --scope @groketship/* dev",
+    "prepare": "husky install",
+    "security": "npm audit"
   }
 }

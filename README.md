@@ -5,4 +5,5 @@
 ## Features
 
 - [x] Monorepo support (multi-package repository) via [Lerna](https://lerna.js.org)
-- [x] Conventional commit checks via [commitlint](https://commitlint.js.org)
+- [x] Conventional commit checks via [Commitlint](https://commitlint.js.org)
+- [x] Git hook support via [Husky](https://typicode.github.io/husky)
