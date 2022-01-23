@@ -4,4 +4,5 @@
 
 ## Features
 
-- [x] Monorepo (multi-package repository)
+- [x] Monorepo support (multi-package repository) via [Lerna](https://lerna.js.org)
+- [x] Conventional commit checks via [commitlint](https://commitlint.js.org)
