@@ -2,7 +2,7 @@
  * @file Defines the custom document component.
  */
 
-import { getInitialProps } from '@expo/next-adapter/document';
+import { getInitialProps } from "@expo/next-adapter/document";
 import NextDocument, { Html, Head, Main, NextScript } from "next/document";
 
 class Document extends NextDocument {
@@ -28,5 +28,5 @@ class Document extends NextDocument {
 }
 
 Document.getInitialProps = getInitialProps;
- 
+
 export default Document;

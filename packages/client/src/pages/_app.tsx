@@ -2,9 +2,9 @@
  * @file Defines the custom application component.
  */
 
-import 'setimmediate';
-import type { AppProps } from 'next/app';
-import Head from 'next/head';
+import "setimmediate";
+import type { AppProps } from "next/app";
+import Head from "next/head";
 
 export default function Application({ Component, pageProps }: AppProps) {
   return (

@@ -4,7 +4,7 @@
 
 // @ts-check
 
-const { withExpo } = require('@expo/next-adapter');
+const { withExpo } = require("@expo/next-adapter");
 
 /**
  * @type {import('next').NextConfig}

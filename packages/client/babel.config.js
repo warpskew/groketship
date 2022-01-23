@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-  presets: ['@expo/next-adapter/babel'],
+  presets: ["@expo/next-adapter/babel"],
 };
