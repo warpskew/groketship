@@ -3,6 +3,10 @@
 		{
 			"name": "root",
 			"path": "."
+		},
+		{
+			"name": "@groketship/client",
+			"path": "packages/client"
 		}
 	],
 	"settings": {
